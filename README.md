@@ -1,7 +1,6 @@
 # Enhanced Pixel Dino Run / 像素恐龙跑酷加强版
 
-![Dinosaur Game Demo](https://placehold.co/600x400/333333/FFFFFF?text=在此处放置游戏演示GIF或截图+PLACE+GAME+DEMO+GIF+HERE)
-*(建议在此处替换为游戏演示的 GIF 或截图 / Suggest replacing this with a GIF or screenshot of your game demo)*
+![Dinosaur Game Demo](assets/dino_demo.png)
 
 This is an enhanced version of the classic Chrome Dinosaur game, built with Python and Pygame. This project was developed as a final course assignment for my Python programming class, featuring pixel art style graphics (simulated), dynamic backgrounds, power-ups, and bilingual (English/Chinese) language support.
 
